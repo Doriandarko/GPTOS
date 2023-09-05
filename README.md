@@ -3,7 +3,7 @@
 ## Overview
 
 GPTOS is a simulated operating system built using Python and the Pygame library. It features a basic CLI, file system, text editor, snake game, and a process and task manager.
-![GPTOS Screenshot](./images/screenshot.png)
+![GPTOS Screenshot](./images/Screenshot.png)
 
 ## Table of Contents
 
